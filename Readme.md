@@ -8,3 +8,6 @@ How does it work:
 Brain-even game:
 
 [![asciicast](https://asciinema.org/a/7vk4hx1cxwsHFsVf8jkfSnCmZ.svg)](https://asciinema.org/a/7vk4hx1cxwsHFsVf8jkfSnCmZ)
+
+Brain-calc game:
+[![asciicast](https://asciinema.org/a/OPVEZJkvotJrFQKgTKwKNtHxx.svg)](https://asciinema.org/a/OPVEZJkvotJrFQKgTKwKNtHxx)
